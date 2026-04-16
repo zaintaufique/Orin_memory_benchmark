@@ -1,0 +1,2 @@
+total_time,avg_latency,std_latency,min_latency,max_latency,p95_latency,p99_latency,throughput,images_per_second,num_iterations,batch_size,device,precision,frequency_hz,frequency_mhz
+571.9947967529297,5719.637689590454,2.1935040169801012,5710.601806640625,5725.013494491577,5722.885763645172,5725.008301734924,0.17482676515184195,5.594456484858942,100,32,gpu,fp32,306000000,306

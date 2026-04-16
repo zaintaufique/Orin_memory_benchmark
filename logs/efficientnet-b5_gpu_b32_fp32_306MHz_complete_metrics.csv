@@ -1,0 +1,17 @@
+metric,value,unit
+avg_latency,5719.637689590454,ms
+throughput,0.1748267651518419,inferences/sec
+images_per_second,5.594456484858942,images/sec
+ch1_avg_power,7356.82920805369,mW
+ch1_avg_energy_per_inference,42078.397614263784,mJ
+ch1_avg_energy_per_image,1314.9499254457432,mJ
+ch2_avg_power,1910.1796510067118,mW
+ch2_avg_energy_per_inference,10925.53552578673,mJ
+ch2_avg_energy_per_image,341.4229851808353,mJ
+ch3_avg_power,1841.8761879194633,mW
+ch3_avg_energy_per_inference,10534.864463983351,mJ
+ch3_avg_energy_per_image,329.2145144994797,mJ
+total_avg_power,11108.885046979865,mW
+total_avg_energy_per_inference,63538.797604033854,mJ
+total_avg_energy_per_image,1985.587425126058,mJ
+frequency,306.0,MHz
