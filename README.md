@@ -1,4 +1,4 @@
-# Jetson Orin NX RAM and Inference Benchmark Suite
+# Jetson Orin NX Inference Benchmark Suite
 
 This project benchmarks PyTorch vision models on NVIDIA Jetson platforms with an emphasis on:
 
